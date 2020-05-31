@@ -1,2 +1,2 @@
-# pv-calc
+# Pemrograman Visual - Kalkulator
 Tugas Pemvis Kalkulator
